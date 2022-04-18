@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-18T13:43:46.406Z,59.7779,-150.8963,31.9,1.6,ml,,,,0.78,ak,ak0224yu1fkm,2022-04-18T13:46:21.168Z,"9 km SSE of Fox River, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-18T13:51:30.126Z,61.7416,-148.1919,16.8,1,ml,,,,0.27,ak,ak0224yu341g,2022-04-18T13:57:15.674Z,"15 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-18T13:43:46.406Z,59.7779,-150.8963,31.9,1.7,ml,,,,0.78,ak,ak0224yu1fkm,2022-04-18T13:57:14.913Z,"9 km SSE of Fox River, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-18T13:33:23.960Z,35.7738333,-117.588,7.89,0.79,ml,9,154,0.04253,0.15,ci,ci40239736,2022-04-18T13:36:55.421Z,"17km W of Searles Valley, CA",earthquake,0.46,0.75,0.128,7,automatic,ci,ci
 2022-04-18T13:31:06.690Z,35.7785,-117.5925,7.77,1.18,ml,17,78,0.03738,0.17,ci,ci40239720,2022-04-18T13:34:44.382Z,"17km W of Searles Valley, CA",earthquake,0.35,0.74,0.152,13,automatic,ci,ci
-2022-04-18T13:27:16.600Z,38.8055,-122.821167,2.01,0.35,md,7,120,0.007105,0.01,nc,nc73719620,2022-04-18T13:33:52.545Z,"6km WNW of The Geysers, CA",earthquake,0.5,1.31,,1,automatic,nc,nc
+2022-04-18T13:27:16.600Z,38.8055,-122.821167,2.01,0.35,md,7,120,0.007105,0.01,nc,nc73719620,2022-04-18T13:52:01.104Z,"6km WNW of The Geysers, CA",earthquake,0.5,1.31,,1,automatic,nc,nc
 2022-04-18T13:23:58.476Z,63.5378,-150.796,0.9,1.7,ml,,,,0.88,ak,ak0224ytx65e,2022-04-18T13:31:36.883Z,"46 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-18T13:23:52.915Z,38.4781,-117.9659,4.4,1.8,ml,13,193.65,0.248,0.1603,nn,nn00837368,2022-04-18T13:27:54.243Z,"15 km NE of Mina, Nevada",earthquake,,1.6,0.44,10,automatic,nn,nn
-2022-04-18T13:22:27.710Z,38.8235016,-122.8121643,1.52,1.17,md,16,42,0.001636,0.01,nc,nc73719615,2022-04-18T13:40:02.041Z,"7km NW of The Geysers, CA",earthquake,0.24,0.53,,1,automatic,nc,nc
+2022-04-18T13:22:27.710Z,38.8235016,-122.8121643,1.52,1.17,md,16,42,0.001636,0.01,nc,nc73719615,2022-04-18T13:56:27.132Z,"7km NW of The Geysers, CA",earthquake,0.24,0.53,,1,automatic,nc,nc
 2022-04-18T13:11:37.950Z,19.1943340301514,-155.485000610352,32.1199989318848,2,md,40,136,,0.159999996,hv,hv72988682,2022-04-18T13:14:47.140Z,"1 km SW of Pāhala, Hawaii",earthquake,0.54,0.850000024,0.25999999,9,automatic,hv,hv
 2022-04-18T13:00:33.067Z,-7.5856,119.9546,525.74,4.3,mb,,110,2.489,0.59,us,us7000h32i,2022-04-18T13:23:04.040Z,"101 km N of Labuan Bajo, Indonesia",earthquake,15.5,11.9,0.188,10,reviewed,us,us
 2022-04-18T12:51:09.427Z,38.1488,-118.2151,4.1,1.1,ml,10,176.35,0.201,0.2048,nn,nn00837367,2022-04-18T12:55:12.463Z,"28 km SSW of Mina, Nevada",earthquake,,2.7,0.26,6,automatic,nn,nn
