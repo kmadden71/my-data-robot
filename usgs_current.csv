@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-05T23:50:47.630Z,19.2181663513184,-155.398162841797,31.0100002288818,1.82000005,md,32,156,,0.129999995,hv,hv73003952,2022-05-05T23:53:55.790Z,"8 km E of Pāhala, Hawaii",earthquake,0.66,0.879999995,0.159999996,9,automatic,hv,hv
 2022-05-05T23:31:38.980Z,19.1333332061768,-155.377166748047,30.8600006103516,1.73000002,md,29,248,,0.109999999,hv,hv73003927,2022-05-05T23:35:00.680Z,"13 km SE of Pāhala, Hawaii",earthquake,0.78,1.12,0.860000014,3,automatic,hv,hv
 2022-05-05T23:30:32.450Z,38.795166,-122.8154984,3.02,0.35,md,6,139,0.01187,0.01,nc,nc73729881,2022-05-05T23:47:18.191Z,"6km WNW of The Geysers, CA",earthquake,1.01,1.84,,1,automatic,nc,nc
 2022-05-05T23:27:28.126Z,61.4123,-150.0493,51.9,1.3,ml,,,,0.31,ak,ak0225r4175b,2022-05-05T23:31:42.003Z,"6 km NNW of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -213,6 +214,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T04:03:49.770Z,19.1604995727539,-155.47200012207,31.6800003051758,2.89,ml,51,108,,0.129999995,hv,hv73003322,2022-05-05T05:07:21.422Z,"4 km S of Pāhala, Hawaii",earthquake,0.51,0.589999974,3.34,34,automatic,hv,hv
 2022-05-05T04:03:15.600Z,19.3668333333333,-155.42,9.01,1.06,md,36,41,,0.12,hv,hv73003317,2022-05-05T04:19:32.330Z,"19 km NNE of Pāhala, Hawaii",earthquake,0.29,0.54,0.100722274757993,19,reviewed,hv,hv
 2022-05-05T04:01:54.320Z,37.5888333,-118.8933333,6.41,0.55,md,9,140,0.03858,0.09,nc,nc73729506,2022-05-05T15:42:12.269Z,"9km SE of Mammoth Lakes, CA",earthquake,1.27,1.24,0.264,8,reviewed,nc,nc
+2022-05-05T03:56:29.720Z,60.0301666666667,-153.091333333333,2.52,-0.29,ml,4,178,,0.04,av,av91551251,2022-05-05T23:49:56.180Z,"Southern Alaska",earthquake,0.45,1.2,0.133558683666907,4,reviewed,av,av
 2022-05-05T03:45:14.130Z,18.0031666666667,-66.7666666666667,13.85,1.82,md,7,181,,0.08,pr,pr71347438,2022-05-05T08:10:46.630Z,"1 km S of Magas Arriba, Puerto Rico",earthquake,0.73,0.38,0.0782389050240802,7,reviewed,pr,pr
 2022-05-05T03:31:46.360Z,19.3261666666667,-155.144333333333,6.18,2.19,ml,48,102,,0.11,hv,hv73003302,2022-05-05T04:01:29.630Z,"15 km S of Fern Forest, Hawaii",earthquake,0.3,0.43,0.128702877178189,10,reviewed,hv,hv
 2022-05-05T03:29:48.528Z,63.9408,-149.986,0.1,1.2,ml,,,,0.64,ak,ak0225qs501w,2022-05-05T03:41:33.237Z,"43 km WSW of Ferry, Alaska",earthquake,,9.8,,,automatic,ak,ak
@@ -258,5 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T00:47:19.690Z,38.7926674,-122.7750015,3.9,0.35,md,10,98,0.01011,0.02,nc,nc73729466,2022-05-05T02:07:14.523Z,"2km NW of The Geysers, CA",earthquake,0.51,1.12,,1,automatic,nc,nc
 2022-05-05T00:10:31.270Z,17.9411666666667,-66.972,14.23,2.32,md,6,220,,0.07,pr,pr71347423,2022-05-05T00:43:01.640Z,"Puerto Rico region",earthquake,0.77,0.56,0.0690479611752119,4,reviewed,pr,pr
 2022-05-05T00:05:42.942Z,37.5022,71.7337,108.73,5,mww,,55,0.996,0.71,us,us7000h75s,2022-05-05T19:13:29.631Z,"16 km E of Khorugh, Tajikistan",earthquake,6.5,5.5,0.098,10,reviewed,us,us
-2022-05-04T23:56:46.720Z,19.2041664123535,-155.384002685547,31.7099990844727,2.19000006,md,41,163,,0.119999997,hv,hv73003152,2022-05-04T23:59:55.990Z,"9 km E of Pāhala, Hawaii",earthquake,0.59,0.779999971,1.40999997,20,automatic,hv,hv
-2022-05-04T23:50:44.253Z,64.707,-156.087,15.5,3.2,ml,,,,0.55,ak,ak0225pgmtcw,2022-05-05T00:00:11.040Z,"28 km W of Ruby, Alaska",earthquake,,0.3,,,automatic,ak,ak
