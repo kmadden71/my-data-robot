@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-07T11:39:48.640Z,38.8320007,-122.8138351,2.22,0.85,md,17,50,0.009081,0.01,nc,nc73730411,2022-05-07T11:48:10.090Z,"8km NW of The Geysers, CA",earthquake,0.25,0.53,,1,automatic,nc,nc
 2022-05-07T11:15:43.370Z,38.8364983,-122.7829971,1.71,0.36,md,9,80,0.006047,0.01,nc,nc73730406,2022-05-07T11:32:14.994Z,"5km WNW of Cobb, CA",earthquake,0.57,1,,1,automatic,nc,nc
 2022-05-07T11:11:19.187Z,61.1228,-150.4046,17.5,1.1,ml,,,,0.64,ak,ak0225u7v8q6,2022-05-07T11:20:15.474Z,"27 km NE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-07T10:56:10.858Z,36.7086,-116.332,10.5,0.8,ml,15,85.57,0.063,0.1527,nn,nn00838478,2022-05-07T10:58:54.091Z,"44 km ESE of Beatty, Nevada",earthquake,,0.8,0.91,11,automatic,nn,nn
