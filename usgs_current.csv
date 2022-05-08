@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-08T20:32:05.242Z,60.1504,-139.4721,0,1.6,ml,,,,0.45,ak,ak0225w0vymk,2022-05-08T20:34:48.094Z,"Southern Yukon Territory, Canada",earthquake,,0.3,,,automatic,ak,ak
 2022-05-08T19:44:02.105Z,63.4032,-145.0379,0,1,ml,,,,1.11,ak,ak0225w0d3dd,2022-05-08T19:53:07.556Z,"33 km SSW of Dry Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-08T19:38:20.395Z,59.991,-139.6909,4.2,1.4,ml,,,,0.9,ak,ak0225w0buuu,2022-05-08T19:50:09.270Z,"49 km N of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-08T19:36:02.050Z,38.7874985,-122.7441635,2.18,0.36,md,8,173,0.01787,0.02,nc,nc73730936,2022-05-08T19:54:15.230Z,"2km NE of The Geysers, CA",earthquake,0.62,1.01,0.02,2,automatic,nc,nc
@@ -124,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T05:19:21.690Z,38.8271675,-122.757164,0.65,0.91,md,11,146,0.02152,0.04,nc,nc73730701,2022-05-08T07:09:13.630Z,"3km W of Cobb, CA",earthquake,0.31,0.61,0.25,3,automatic,nc,nc
 2022-05-08T05:17:21.100Z,38.8251648,-122.7558365,0.22,1.92,md,23,72,0.01221,0.06,nc,nc73730686,2022-05-08T05:50:13.232Z,"3km W of Cobb, CA",earthquake,0.28,0.46,0.09,5,automatic,nc,nc
 2022-05-08T05:03:03.376Z,59.6265,-152.5401,59.3,1.4,ml,,,,0.67,ak,ak0225vrs8jv,2022-05-08T05:14:30.471Z,"43 km WSW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-05-08T04:30:54.840Z,33.3628333,-116.3648333,9.98,0.99,ml,20,62,0.04623,0.17,ci,ci40254440,2022-05-08T04:34:30.774Z,"12km N of Borrego Springs, CA",earthquake,0.31,0.64,0.15,22,automatic,ci,ci
+2022-05-08T04:30:54.570Z,33.3545,-116.358,12.54,1,ml,37,73,0.02873,0.18,ci,ci40254440,2022-05-08T20:27:41.504Z,"11km N of Borrego Springs, CA",earthquake,0.27,0.59,0.131,18,reviewed,ci,ci
 2022-05-08T04:25:39.036Z,62.2795,-149.1633,25,1.8,ml,,,,0.84,ak,ak0225vrbll1,2022-05-08T04:58:06.981Z,"38 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-08T04:16:02.401Z,61.0023,-151.9671,94.7,3.9,ml,,,,0.77,ak,ak0225vr9lag,2022-05-08T10:56:06.935Z,"45 km W of Tyonek, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2022-05-08T04:13:55.370Z,38.8051682,-122.8138351,2.95,1.29,md,27,62,0.01254,0.02,nc,nc73730676,2022-05-08T05:12:13.030Z,"6km WNW of The Geysers, CA",earthquake,0.22,0.45,0.11,4,automatic,nc,nc
