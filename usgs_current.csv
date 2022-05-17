@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-17T10:45:43.630Z,38.8048325,-122.893837,4.22,0.27,md,8,210,0.01162,0.03,nc,nc73734971,2022-05-17T10:47:17.736Z,"11km E of Cloverdale, CA",earthquake,1.18,2.04,0.13,2,automatic,nc,nc
+2022-05-17T10:56:58.150Z,33.7000008,-116.7191696,16.89,0.96,ml,20,91,0.01189,0.11,ci,ci40020959,2022-05-17T10:59:02.250Z,"4km S of Idyllwild, CA",earthquake,0.46,0.69,0.168,6,automatic,ci,ci
+2022-05-17T10:54:28.450Z,35.6786652,-121.0810013,6.62,1.39,md,10,100,0.05927,0.01,nc,nc73734981,2022-05-17T10:56:01.438Z,"11km ENE of San Simeon, CA",earthquake,0.39,0.81,0.09,7,automatic,nc,nc
+2022-05-17T10:45:43.630Z,38.8048325,-122.893837,4.22,0.27,md,8,210,0.01162,0.03,nc,nc73734971,2022-05-17T10:54:11.053Z,"11km E of Cloverdale, CA",earthquake,1.18,2.04,0.13,2,automatic,nc,nc
 2022-05-17T10:26:28.620Z,35.6963333,-117.6043333,10.7,1.21,ml,14,129,0.1191,0.17,ci,ci40020951,2022-05-17T10:30:07.322Z,"11km NE of Ridgecrest, CA",earthquake,0.35,0.81,0.176,13,automatic,ci,ci
 2022-05-17T10:22:47.670Z,38.8176651,-122.8180008,2.34,1.18,md,26,47,0.008431,0.02,nc,nc73734966,2022-05-17T10:31:10.937Z,"7km NW of The Geysers, CA",earthquake,0.18,0.36,0.14,6,automatic,nc,nc
 2022-05-17T10:21:56.510Z,-5.9239,150.0901,57.69,4.8,mb,,45,2.688,0.48,us,us6000hlr6,2022-05-17T10:41:23.040Z,"41 km S of Kimbe, Papua New Guinea",earthquake,8.7,6.1,0.073,59,reviewed,us,us
@@ -93,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T00:58:02.690Z,34.0108333,-116.4486667,7.25,0.92,ml,31,88,0.07603,0.2,ci,ci40020735,2022-05-17T01:01:43.292Z,"7km NE of Desert Hot Springs, CA",earthquake,0.29,0.81,0.128,22,automatic,ci,ci
 2022-05-17T00:36:30.985Z,61.758,-149.7008,46.8,1,ml,,,,0.56,ak,ak0226akubtm,2022-05-17T00:38:41.389Z,"15 km NNE of Houston, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-17T00:28:47.917Z,62.4842,-150.5054,18,1.4,ml,,,,0.78,ak,ak0226aksnf0,2022-05-17T00:38:40.537Z,"13 km E of Petersville, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2022-05-17T00:28:02.170Z,38.3698349,-88.9551697,15.37,2.29,md,15,86,0.4446,0.17,nm,nm60394806,2022-05-17T09:48:06.917Z,"7 km NW of Mount Vernon, Illinois",earthquake,0.37,1.4,0.14,14,reviewed,nm,nm
+2022-05-17T00:28:02.170Z,38.3698349,-88.9551697,15.37,2.29,md,15,86,0.4446,0.17,nm,nm60394806,2022-05-17T10:56:56.536Z,"7 km NW of Mount Vernon, Illinois",earthquake,0.37,1.4,0.14,14,reviewed,nm,nm
 2022-05-17T00:16:14.180Z,35.6845,-117.4103333,4.15,1.5,ml,17,109,0.1065,0.19,ci,ci40020727,2022-05-17T00:26:33.550Z,"9km S of Searles Valley, CA",earthquake,0.45,1.19,0.171,19,automatic,ci,ci
 2022-05-16T23:37:18.770Z,36.449,-115.7505,7.3,0.9,ml,22,109.73,0.193,0.1736,nn,nn00839008,2022-05-17T02:38:48.824Z,"15 km SSW of Indian Springs, Nevada",earthquake,,2.9,0.73,14,reviewed,nn,nn
 2022-05-16T23:28:18.140Z,34.0101667,-116.455,8.56,0.85,ml,12,91,0.07925,0.14,ci,ci40020703,2022-05-16T23:31:58.606Z,"7km NE of Desert Hot Springs, CA",earthquake,0.33,0.76,0.161,15,automatic,ci,ci
@@ -234,5 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T11:03:20.644Z,59.9023,-151.6172,65.1,2.2,ml,,,,0.57,ak,ak022693nnid,2022-05-16T11:12:05.936Z,"8 km SE of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-16T11:02:39.100Z,17.9596666666667,-66.9975,9.22,2.96,md,20,184,,0.15,pr,pr71349033,2022-05-16T11:40:14.744Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.4,0.68,0.233423441998802,10,reviewed,pr,pr
 2022-05-16T11:01:49.880Z,44.172,-115.1461667,8.78,2.38,ml,20,76,0.807,0.23,mb,mb80545944,2022-05-16T18:17:58.560Z,"17 km WSW of Stanley, Idaho",earthquake,0.42,0.91,0.234,22,reviewed,mb,mb
-2022-05-16T10:58:17.040Z,62.2335,-148.8212,33.3,1,ml,,,,0.52,ak,ak022693e023,2022-05-16T11:12:05.176Z,"50 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-16T10:57:39.070Z,38.9146667,-123.3285,5.23,0.93,md,8,89,0.07431,0.07,nc,nc73734506,2022-05-16T16:54:10.638Z,"11km SSE of Boonville, CA",earthquake,0.32,0.8,0.253,8,reviewed,nc,nc
