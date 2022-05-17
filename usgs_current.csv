@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-17T08:37:44.204Z,59.6206,-138.8992,11.6,1.5,ml,,,,0.48,ak,ak0226apm1ec,2022-05-17T08:39:44.159Z,"47 km E of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-17T08:33:32.400Z,33.4145,-117.0456667,7.47,0.39,ml,8,74,0.0279,0.1,ci,ci40020927,2022-05-17T08:37:09.885Z,"6km NNE of Pala, CA",earthquake,0.32,0.67,0.108,8,automatic,ci,ci
+2022-05-17T08:22:39.400Z,35.6903333,-117.5293333,2.62,1.13,ml,15,145,0.1172,0.17,ci,ci40020919,2022-05-17T08:26:19.255Z,"14km SW of Searles Valley, CA",earthquake,0.45,0.79,0.188,12,automatic,ci,ci
 2022-05-17T08:09:42.747Z,60.5796,-151.5728,74.5,1.2,ml,,,,0.46,ak,ak0226apg18i,2022-05-17T08:11:29.889Z,"14 km WSW of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-05-17T08:07:34.040Z,48.31100082397461,-121.85616302490234,-0.5,3.27999997,md,53,48,0.1252,0.330000013,uw,uw61832097,2022-05-17T08:19:49.632Z,"7 km NE of Oso, Washington",earthquake,0.4,1.32000005,2.23000002,37,reviewed,uw,uw
+2022-05-17T08:07:34.290Z,48.2945,-121.86866666666667,3.56,3.56,ml,14,138,0.1067,0.19,uw,uw61832097,2022-05-17T08:40:19.897Z,"5 km ENE of Oso, Washington",earthquake,0.44,16.61,0.2374928676328958,3,reviewed,uw,uw
 2022-05-17T08:05:46.855Z,61.8356,-149.675,37.4,0.9,ml,,,,0.5,ak,ak0226apf6ot,2022-05-17T08:07:50.457Z,"21 km ENE of Willow, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-17T08:04:30.520Z,35.7176667,-117.5328333,9.42,0.82,ml,6,170,0.1111,0.12,ci,ci40020911,2022-05-17T08:07:56.232Z,"13km WSW of Searles Valley, CA",earthquake,0.56,1.22,0.139,8,automatic,ci,ci
 2022-05-17T07:44:45.750Z,35.8245,-117.6376667,10.4,0.93,ml,12,91,0.03379,0.08,ci,ci40020903,2022-05-17T07:48:23.721Z,"22km WNW of Searles Valley, CA",earthquake,0.26,0.44,0.165,9,automatic,ci,ci
@@ -56,6 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T01:52:55.427Z,62.1573,-148.529,40.8,0.7,ml,,,,0.36,ak,ak0226alj8rq,2022-05-17T01:54:41.684Z,"40 km N of Chickaloon, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-05-17T01:51:46.940Z,34.2313333,-117.6111667,9.73,0.85,ml,19,76,0.03995,0.16,ci,ci40020775,2022-05-17T01:55:24.886Z,"11km WSW of Lytle Creek, CA",earthquake,0.37,0.63,0.165,19,automatic,ci,ci
 2022-05-17T01:44:22.867Z,-56.497,177.6766,10,5.3,mww,,76,12.896,0.88,us,us6000hlnb,2022-05-17T02:12:29.040Z,"south of New Zealand",earthquake,11.8,1.9,0.093,11,reviewed,us,us
+2022-05-17T01:39:43.550Z,37.4805,-118.8555,-0.11,1,md,12,151,0.1113,0.03,nc,nc73734821,2022-05-17T08:31:10.256Z,"18km WSW of Toms Place, CA",earthquake,0.7,2.55,0.169,10,reviewed,nc,nc
 2022-05-17T01:33:46.580Z,33.7891667,-116.94,10.89,1.29,ml,49,37,0.02988,0.2,ci,ci40020767,2022-05-17T01:44:58.490Z,"2km ENE of San Jacinto, CA",earthquake,0.22,0.37,0.165,25,automatic,ci,ci
 2022-05-17T01:21:23.250Z,33.6676667,-117.997,13.19,1.96,ml,49,105,0.04802,0.24,ci,ci40020751,2022-05-17T06:10:01.618Z,"3km S of Huntington Beach, CA",earthquake,0.55,0.69,0.126,26,automatic,ci,ci
 2022-05-17T01:14:29.680Z,20.9218333333333,-155.163166666667,0.64,2.8,md,55,252,,0.16,hv,hv73014722,2022-05-17T02:58:59.170Z,"87 km ENE of Hana, Hawaii",earthquake,2.28,0.61,0.148454038354239,19,reviewed,hv,hv
@@ -235,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T08:51:47.590Z,44.2498333,-110.3818333,11.5,1.13,md,19,72,0.1059,0.18,uu,uu60498312,2022-05-16T13:20:03.820Z,"72 km NNE of Kelly, Wyoming",earthquake,0.49,0.63,0.13,13,reviewed,uu,uu
 2022-05-16T08:48:25.280Z,19.842,-155.6125,22.31,2.63,ml,44,103,,0.14,hv,hv73013982,2022-05-16T23:09:36.037Z,"21 km SSE of Waimea, Hawaii",earthquake,0.37,0.92,0.108047104311085,16,reviewed,hv,hv
 2022-05-16T08:43:26.360Z,38.7856674,-122.7671661,2.7,0.83,md,18,87,0.01497,0.03,nc,nc73734441,2022-05-16T08:52:11.898Z,"1km NW of The Geysers, CA",earthquake,0.32,0.58,0.02,3,automatic,nc,nc
-2022-05-16T08:40:43.810Z,38.7868347,-122.767334,2.94,0.85,md,11,98,0.015,0.01,nc,nc73734431,2022-05-16T10:28:10.391Z,"1km NW of The Geysers, CA",earthquake,0.49,0.96,,1,automatic,nc,nc
