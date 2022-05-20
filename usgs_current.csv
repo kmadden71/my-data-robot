@@ -7,6 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T21:18:37.250Z,61.9082,-149.2848,18.9,1.2,ml,,,,0.52,ak,ak0226fvumlp,2022-05-20T21:31:33.304Z,"18 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-20T21:15:43.183Z,-20.7801,-69.2209,106.73,4.1,mb,,77,0.361,0.4,us,us6000hms5,2022-05-20T21:32:09.040Z,"115 km ESE of Iquique, Chile",earthquake,5.4,4.3,0.26,4,reviewed,us,us
 2022-05-20T21:01:08.600Z,17.9793333333333,-66.9571666666667,9.78,2.16,md,11,171,,0.09,pr,pr71349598,2022-05-20T21:23:14.580Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.33,0.53,0.0550892920663921,8,reviewed,pr,pr
+2022-05-20T20:53:03.130Z,35.9233333,-117.6526667,3.28,-0.07,ml,5,139,0.02459,0.08,ci,ci40023335,2022-05-20T22:35:45.515Z,"23km E of Little Lake, CA",earthquake,0.29,0.51,0.196,2,reviewed,ci,ci
 2022-05-20T20:31:48.680Z,36.0995,-117.799,9.2,1.03,ml,17,108,0.0487,0.07,ci,ci40023327,2022-05-20T20:47:34.725Z,"15km ENE of Coso Junction, CA",earthquake,0.15,0.31,0.204,10,reviewed,ci,ci
 2022-05-20T20:28:18.440Z,38.8171654,-122.805336,3.06,0.35,md,10,84,0.007238,0.02,nc,nc73736066,2022-05-20T20:38:09.954Z,"6km NW of The Geysers, CA",earthquake,0.44,1.13,,1,automatic,nc,nc
 2022-05-20T20:11:30.576Z,35.4585,-3.5934,33.16,4,mb,,74,2.978,1.34,us,us6000hmrr,2022-05-20T22:18:15.040Z,"38 km NE of Al Hoceïma, Morocco",earthquake,7.8,7.5,0.134,17,reviewed,us,us
@@ -66,6 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T12:54:28.743Z,60.8437,-146.8882,10.4,1.8,ml,,,,0.6,ak,ak0226fqpfa2,2022-05-20T12:59:46.237Z,"11 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-20T12:35:49.570Z,35.4993,-3.4919,10,5.5,mww,,59,2.402,0.45,us,us6000hmld,2022-05-20T21:34:16.358Z,"48 km NE of Al Hoceïma, Morocco",earthquake,6.4,1.8,0.046,45,reviewed,us,us
 2022-05-20T12:31:06.321Z,4.2989,126.2709,82.77,4.6,mb,,69,2.837,0.59,us,us6000hmlc,2022-05-20T13:23:18.040Z,"151 km SE of Sarangani, Philippines",earthquake,3.4,7.6,0.094,34,reviewed,us,us
+2022-05-20T12:17:39.190Z,53.8513333333333,-166.6405,7.96,0.8,ml,6,154,,0.11,av,av91568351,2022-05-20T22:39:18.070Z,"7 km WSW of Unalaska, Alaska",earthquake,0.44,0.86,0.381160102112554,6,reviewed,av,av
 2022-05-20T12:14:01.717Z,59.8301,-152.8261,75,1.2,ml,,,,0.47,ak,ak0226fqgsk0,2022-05-20T12:49:14.869Z,"56 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-20T12:13:58.560Z,46.687333333333335,-121.9135,4.5,0.59,ml,16,108,0.0529,0.1,uw,uw61842101,2022-05-20T16:55:39.500Z,"11 km SE of Ashford, Washington",earthquake,0.31,0.83,0.1639085106230846,3,reviewed,uw,uw
 2022-05-20T12:10:41.580Z,38.8188324,-122.7973328,14.47,0.91,md,11,91,0.01095,0.1,nc,nc73735976,2022-05-20T13:47:11.491Z,"6km NW of The Geysers, CA",earthquake,1.85,8.12,,1,automatic,nc,nc
@@ -74,6 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T11:53:55.270Z,33.2318333,-116.2773333,10.62,2.53,ml,111,18,0.04367,0.19,ci,ci40023071,2022-05-20T20:16:59.980Z,"10km ESE of Borrego Springs, CA",earthquake,0.1,0.26,0.165,24,reviewed,ci,ci
 2022-05-20T11:47:35.260Z,17.989,-66.87,12.09,2.25,md,6,196,,0.16,pr,pr71349563,2022-05-20T12:11:20.780Z,"2 km ENE of Maria Antonia, Puerto Rico",earthquake,0.91,0.87,0.0418316408675907,5,reviewed,pr,pr
 2022-05-20T11:46:13.400Z,38.8269997,-122.8048325,1.51,1.19,md,22,43,0.005451,0.03,nc,nc73735961,2022-05-20T13:06:10.241Z,"7km NW of The Geysers, CA",earthquake,0.19,0.45,0.26,2,automatic,nc,nc
+2022-05-20T11:38:59.800Z,51.8563333333333,-177.808333333333,7.83,0.19,ml,4,278,,0.03,av,av91059373,2022-05-20T22:36:52.560Z,"80 km W of Adak, Alaska",earthquake,0.7,1.42,0.145427381049746,4,reviewed,av,av
 2022-05-20T11:38:16.690Z,36.1065,-117.8841667,3.65,1.96,ml,30,61,0.02618,0.11,ci,ci40023063,2022-05-20T19:10:29.670Z,"9km NE of Coso Junction, CA",earthquake,0.11,0.2,0.147,13,reviewed,ci,ci
 2022-05-20T11:38:10.970Z,36.0985,-117.7973333,8.64,0.87,ml,14,88,0.05033,0.07,ci,ci40023055,2022-05-20T14:52:52.025Z,"15km ENE of Coso Junction, CA",earthquake,0.17,0.33,0.184,4,reviewed,ci,ci
 2022-05-20T11:38:10.940Z,36.0986667,-117.796,8.8,0.72,ml,12,111,0.05126,0.07,ci,ci37499421,2022-05-20T19:20:00.181Z,"15km ENE of Coso Junction, CA",earthquake,0.21,0.33,0.157,4,reviewed,ci,ci
