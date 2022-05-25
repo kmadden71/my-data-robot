@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-25T08:52:17.220Z,32.5351667,-116.1886667,10.89,1.06,ml,18,121,0.1327,0.17,ci,ci40026071,2022-05-25T08:55:53.210Z,"27km ESE of Campo, CA",earthquake,0.32,0.83,0.251,7,automatic,ci,ci
+2022-05-25T08:45:25.434Z,38.1871,-117.8861,6.2,0.5,ml,9,176.58,0.075,0.1386,nn,nn00839533,2022-05-25T08:49:20.666Z,"29 km SE of Mina, Nevada",earthquake,,1.3,0.44,4,automatic,nn,nn
 2022-05-25T08:16:34.333Z,64.7031,-152.6635,10.8,1,ml,,,,0.31,ak,ak0226nxsak7,2022-05-25T08:21:55.391Z,"59 km SSW of Tanana, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-25T08:07:21.639Z,62.4623,-149.5418,16.4,1.1,ml,,,,0.51,ak,ak0226nxqc4k,2022-05-25T08:21:54.612Z,"28 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-25T07:58:20.360Z,32.5955,-115.5241667,3.44,1.99,ml,23,140,0.07612,0.24,ci,ci40026063,2022-05-25T08:08:53.950Z,"6km ENE of Progreso, B.C., MX",earthquake,0.78,0.93,0.224,26,automatic,ci,ci
