@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-30T05:53:29.910Z,36.096,-117.8695,2.08,0.79,ml,9,164,0.02458,0.07,ci,ci40030319,2022-05-30T05:57:02.754Z,"9km NE of Coso Junction, CA",earthquake,0.38,0.21,0.093,6,automatic,ci,ci
 2022-05-30T05:35:59.835Z,60.2095,-140.853,15.5,1.2,ml,,,,1.09,ak,ak0226w5surz,2022-05-30T05:38:45.192Z,"97 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-30T05:22:04.200Z,34.0885,-117.3123333,15.45,1.33,ml,43,99,0.1083,0.2,ci,ci40030311,2022-05-30T05:32:48.680Z,"2km N of Colton, CA",earthquake,0.29,0.45,0.191,30,automatic,ci,ci
 2022-05-30T05:17:45.910Z,34.0958333,-116.7711667,9.04,1.7,ml,60,48,0.06773,0.17,ci,ci40030303,2022-05-30T05:28:39.750Z,"18km WNW of Morongo Valley, CA",earthquake,0.2,0.53,0.098,25,automatic,ci,ci
@@ -169,7 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-29T06:05:02.291Z,38.1886,-117.8596,6,0.3,ml,9,182.77,0.093,0.1037,nn,nn00839886,2022-05-29T06:09:04.279Z,"31 km SE of Mina, Nevada",earthquake,,1.5,0.64,5,automatic,nn,nn
 2022-05-29T06:04:42.530Z,48.309666666666665,-121.8955,6.88,0.8,ml,7,130,0.1165,0.09,uw,uw61836662,2022-05-29T17:27:52.090Z,"5 km NNE of Oso, Washington",earthquake,0.44,1.73,0.08992772198396815,2,reviewed,uw,uw
 2022-05-29T05:58:16.658Z,60.651,-150.1146,31.7,2.3,ml,,,,0.79,ak,ak0226uiecfd,2022-05-29T06:01:46.987Z,"23 km NW of Cooper Landing, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-29T05:51:57.987Z,36.5084,-116.9272,11.7,-0.3,ml,7,174.7,0.066,0.1861,nn,nn00839883,2022-05-29T14:08:52.763Z,"9 km NW of Furnace Creek, California",earthquake,,2.1,0.1,2,reviewed,nn,nn
-2022-05-29T05:50:17.010Z,18.127,-66.7653333333333,19.02,2.94,md,25,65,,0.19,pr,pr71351263,2022-05-29T07:02:56.520Z,"6 km SW of Adjuntas, Puerto Rico",earthquake,0.25,0.4,0.248590397994165,18,reviewed,pr,pr
-2022-05-29T05:49:30.160Z,33.6943333,-116.8046667,14.94,1.11,ml,39,44,0.07356,0.16,ci,ci40029759,2022-05-29T05:53:13.864Z,"9km WSW of Idyllwild, CA",earthquake,0.22,0.37,0.236,29,automatic,ci,ci
-2022-05-29T05:48:23.810Z,33.6796667,-116.8086667,14.38,2.14,ml,75,23,0.05932,0.18,ci,ci40029751,2022-05-29T16:16:20.956Z,"11km SW of Idyllwild, CA",earthquake,0.18,0.28,0.277,25,reviewed,ci,ci
