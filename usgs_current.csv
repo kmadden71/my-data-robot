@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-01T11:37:00.970Z,60.3355,-141.2767,5.4,1.9,ml,,,,0.81,ak,ak0226zkgga9,2022-06-01T11:43:52.707Z,"123 km NW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-06-01T11:30:41.418Z,62.6968,-150.6967,76.8,1.5,ml,,,,0.41,ak,ak0226zkf1e5,2022-06-01T11:33:06.762Z,"22 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-06-01T11:28:12.498Z,62.7583,-150.9316,0,1.5,ml,,,,0.86,ak,ak0226zkejq4,2022-06-01T11:30:36.184Z,"30 km NNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-01T11:21:25.490Z,34.1711667,-118.5018333,6.76,0.98,ml,16,74,0.07555,0.25,ci,ci40031575,2022-06-01T11:25:05.845Z,"1km N of Encino, CA",earthquake,0.51,1.44,0.146,19,automatic,ci,ci
@@ -16,6 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-01T09:00:08.122Z,30.4155,102.9892,10,5.9,mww,,18,9.09,1.05,us,us7000he1h,2022-06-01T11:17:03.346Z,"45 km W of Linqiong, China",earthquake,7.9,1.8,0.069,20,reviewed,us,us
 2022-06-01T08:59:37.230Z,19.1588325500488,-155.469833374023,31.1499996185303,2.05999994,md,42,112,,0.129999995,hv,hv73030267,2022-06-01T09:02:55.840Z,"4 km S of Pāhala, Hawaii",earthquake,0.53,0.699999988,1.13,16,automatic,hv,hv
 2022-06-01T08:45:25.850Z,19.1984996795654,-155.387664794922,32.189998626709,1.97000003,md,41,161,,0.119999997,hv,hv73030252,2022-06-01T08:48:30.770Z,"Island of Hawaii, Hawaii",earthquake,0.63,0.839999974,1.39999998,18,automatic,hv,hv
+2022-06-01T08:39:02.230Z,19.0566,-67.1098,13,3.53,md,22,225,0.5891,0.22,pr,pr2022152003,2022-06-01T11:33:23.117Z,"62 km N of Isabela, Puerto Rico",earthquake,0.69,1.45,0.09,14,reviewed,pr,pr
 2022-06-01T08:30:46.491Z,39.5674,-119.1166,2.8,1,ml,11,161.02,0.252,0.1566,nn,nn00840052,2022-06-01T08:35:11.363Z,"12 km ESE of Fernley, Nevada",earthquake,,15.9,0.23,5,automatic,nn,nn
 2022-06-01T08:29:49.585Z,64.3473,-149.4425,11.8,1.2,ml,,,,0.65,ak,ak0226zimjhq,2022-06-01T08:51:00.901Z,"12 km W of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-01T08:07:45.276Z,60.0502,-152.7898,101.9,1.5,ml,,,,0.71,ak,ak0226zihth4,2022-06-01T08:11:18.177Z,"60 km W of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -77,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-01T01:21:07.710Z,35.4711667,-117.3126667,5.84,1.17,ml,16,133,0.06834,0.16,ci,ci40031343,2022-06-01T01:24:41.315Z,"31km ENE of Johannesburg, CA",earthquake,0.43,0.9,0.162,16,automatic,ci,ci
 2022-06-01T01:19:44.516Z,42.6284,142.1723,94.48,4.5,mb,,75,0.953,0.77,us,us7000hdzi,2022-06-01T03:01:54.184Z,"36 km NNW of Shizunai-furukawachō, Japan",earthquake,6.2,6.9,0.045,149,reviewed,us,us
 2022-06-01T01:16:35.339Z,64.4416,-146.6158,9.9,0.8,ml,,,,0.33,ak,ak0226zedoul,2022-06-01T01:39:04.729Z,"7 km N of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-01T01:07:53.719Z,38.5633,-119.4335,3,1,ml,12,104.91,0.059,0.1573,nn,nn00840041,2022-06-01T01:12:28.681Z,"6 km E of Coleville, California",earthquake,,2.1,0.15,7,automatic,nn,nn
+2022-06-01T01:07:53.719Z,38.5633,-119.4335,3,1,ml,12,104.91,0.059,0.1573,nn,nn00840041,2022-06-01T01:12:28.681Z,"California-Nevada border region",earthquake,,2.1,0.15,7,automatic,nn,nn
 2022-06-01T01:03:11.840Z,32.6013333,-115.5486667,1.98,1.48,ml,9,143,0.1574,0.25,ci,ci40031327,2022-06-01T01:06:55.582Z,"4km NE of Progreso, B.C., MX",earthquake,0.9,1.35,0.198,19,automatic,ci,ci
 2022-06-01T00:51:23.990Z,37.1736667,-118.2333333,13.03,1.74,md,20,233,0.06935,0.08,nc,nc73739701,2022-06-01T07:52:14.849Z,"5km E of Big Pine, CA",earthquake,1.5,0.28,0.28,21,reviewed,nc,nc
 2022-06-01T00:50:45.493Z,27.03,126.3615,10,4.5,mb,,44,1.717,0.82,us,us7000hdzh,2022-06-01T02:14:46.040Z,"159 km NW of Naha, Japan",earthquake,7.5,1.9,0.096,32,reviewed,us,us
@@ -208,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-31T12:18:37.256Z,61.5264,-147.9011,16.3,1.1,ml,,,,0.65,ak,ak0226xxejl9,2022-05-31T12:30:31.714Z,"33 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-31T11:45:37.400Z,36.8781662,-121.6098328,9.24,1.67,md,20,65,0.01564,0.1,nc,nc73739511,2022-05-31T12:36:15.778Z,"3km ESE of Aromas, CA",earthquake,0.46,0.66,0.35,17,automatic,nc,nc
 2022-05-31T11:44:09.070Z,18.026,-66.739,10,3.28,md,23,121,0.1338,0.23,pr,pr2022151004,2022-05-31T13:24:46.292Z,"3 km ENE of Magas Arriba, Puerto Rico",earthquake,0.34,0.59,0.11,9,reviewed,pr,pr
-2022-05-31T11:43:23.200Z,37.193,-118.247,13.52,2.03,md,18,190,0.04732,0.06,nc,nc73739506,2022-06-01T02:38:18.791Z,"5km NE of Big Pine, CA",earthquake,0.89,0.21,0.207,22,reviewed,nc,nc
