@@ -159,5 +159,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-05T05:29:51.350Z,34.1500015,-116.8584976,6.55,1.74,ml,74,35,0.08539,0.17,ci,ci40034103,2022-06-05T06:02:36.753Z,"12km SSE of Big Bear Lake, CA",earthquake,0.21,0.7,0.242,25,automatic,ci,ci
 2022-06-05T05:09:53.606Z,-21.0712,-178.5835,532.43,4.3,mb,,104,4.585,0.76,us,us7000hf3k,2022-06-05T05:31:43.040Z,"Fiji region",earthquake,12.9,6.4,0.058,84,reviewed,us,us
 2022-06-05T05:08:22.771Z,58.2015,-136.7817,9.15,2.9,ml,,153,0.378,0.68,us,us7000hf3j,2022-06-05T06:14:30.040Z,"25 km W of Elfin Cove, Alaska",earthquake,3.7,8.4,0.069,28,reviewed,us,us
-2022-06-05T05:06:06.450Z,18.0851666666667,-66.11,23.54,2.95,md,10,119,,0.19,pr,pr71352463,2022-06-05T15:32:35.466Z,"4 km S of G. L. Garcia, Puerto Rico",earthquake,0.64,0.65,0.233000465394029,9,reviewed,pr,pr
-2022-06-05T04:49:41.724Z,60.2761,-152.6008,104.6,2.4,ml,,,,0.45,ak,ak022762igqs,2022-06-05T05:27:54.515Z,"57 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
