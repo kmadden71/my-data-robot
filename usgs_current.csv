@@ -163,7 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-06T11:14:06.200Z,38.8300018,-122.8069992,2.12,1.68,md,9,126,0.02382,0.05,nc,nc73740971,2022-06-06T11:46:11.843Z,"7km NW of The Geysers, CA",earthquake,0.39,0.64,0.09,10,automatic,nc,nc
 2022-06-06T10:51:43.746Z,38.5387,-119.5525,6.5,0.2,ml,7,120.23,0.054,0.1244,nn,nn00840453,2022-06-07T02:38:11.894Z,"5 km SW of Coleville, California",earthquake,,2.4,0.48,3,reviewed,nn,nn
 2022-06-06T10:31:04.329Z,61.4928,-146.7368,28.9,1.1,ml,,,,0.4,ak,ak02277tih40,2022-06-06T10:45:48.673Z,"45 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-06T10:21:00.313Z,38.4087,-118.7541,13.8,0.2,ml,7,270.74,0.251,0.1345,nn,nn00840447,2022-06-07T02:38:10.958Z,"17 km SW of Hawthorne, Nevada",earthquake,,10,0.03,2,reviewed,nn,nn
+2022-06-06T10:21:00.313Z,38.4087,-118.7541,13.8,0.2,ml,7,270.74,0.251,0.1345,nn,nn00840447,2022-06-07T02:38:10.958Z,"California-Nevada border region",earthquake,,10,0.03,2,reviewed,nn,nn
 2022-06-06T10:14:03.650Z,33.4831667,-116.4615,7.35,0.51,ml,19,69,0.09417,0.16,ci,ci40034687,2022-06-06T10:17:36.377Z,"21km ESE of Anza, CA",earthquake,0.27,1.05,0.138,12,automatic,ci,ci
 2022-06-06T10:11:34.740Z,35.8716667,-117.6671667,7.76,0.74,ml,15,95,0.07728,0.09,ci,ci40034695,2022-06-06T17:50:33.561Z,"23km ESE of Little Lake, CA",earthquake,0.17,0.47,0.07,5,reviewed,ci,ci
 2022-06-06T10:04:58.140Z,33.4833333,-116.4621667,5.4,0.61,ml,23,68,0.09369,0.15,ci,ci40034679,2022-06-06T13:24:34.166Z,"21km ESE of Anza, CA",earthquake,0.2,1.15,0.144,15,reviewed,ci,ci
@@ -171,5 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-06T09:48:10.280Z,35.5543333,-120.8078333,5.36,1.11,md,9,72,0.06984,0.08,nc,nc73740951,2022-06-07T05:29:24.103Z,"9km W of Templeton, CA",earthquake,0.36,0.84,0.203,6,reviewed,nc,nc
 2022-06-06T09:47:55.110Z,63.8648,-149.0493,4.5,1.9,ml,,,,1.18,ak,ak02277t0kvr,2022-06-06T09:59:31.454Z,"4 km WNW of Healy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-06T09:46:35.565Z,38.3752,-119.3951,8.3,0.2,ml,10,146.17,0.044,0.1073,nn,nn00840445,2022-06-07T02:38:10.134Z,"17 km SSE of Walker, California",earthquake,,2.1,0.58,3,reviewed,nn,nn
-2022-06-06T09:39:19.617Z,62.0583,-148.3161,12.7,1.2,ml,,,,0.62,ak,ak02277sysd9,2022-06-06T09:51:44.686Z,"30 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-06T09:32:29.550Z,36.415,-120.9926667,4.77,1.43,md,35,105,0.02342,0.2,nc,nc73740946,2022-06-07T05:54:16.252Z,"19km SE of Pinnacles, CA",earthquake,0.35,0.55,0.132,24,reviewed,nc,nc
