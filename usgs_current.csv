@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-19T09:34:48.623Z,36.6152,-116.9892,0.6,1.3,ml,20,148.33,0.11,0.2522,nn,nn00841189,2022-06-19T09:37:57.514Z,"22 km NNW of Furnace Creek, California",earthquake,,8.9,0.79,14,automatic,nn,nn
+2022-06-19T09:21:47.357Z,62.3239,-152.0416,102.6,1.5,ml,,,,0.64,ak,ak0227taui33,2022-06-19T09:23:41.770Z,"50 km NW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-19T09:17:08.511Z,65.5565,-148.4574,0,1.4,ml,,,,0.74,ak,ak0227tatk83,2022-06-19T09:20:25.154Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-19T09:15:14.310Z,34.4863333,-118.9753333,10.66,1.56,ml,35,35,0.04889,0.33,ci,ci40287144,2022-06-19T09:18:58.774Z,"11km NNW of Fillmore, CA",earthquake,0.46,0.95,0.102,31,automatic,ci,ci
 2022-06-19T09:14:23.400Z,34.4903333,-118.983,5.19,1.22,ml,13,114,0.05581,0.22,ci,ci40287136,2022-06-19T09:18:01.717Z,"12km NNW of Fillmore, CA",earthquake,0.67,1.53,0.165,20,automatic,ci,ci
@@ -190,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-18T09:53:09.110Z,38.8306667,-122.7445,0.98,0.4,md,15,171,0.01372,0.04,nc,nc73746996,2022-06-18T21:14:11.191Z,"2km WNW of Cobb, CA",earthquake,0.38,0.48,0.123,4,reviewed,nc,nc
 2022-06-18T09:42:36.809Z,52.1518,176.7653,87.7,2.7,ml,,,,0.47,ak,ak0227rnfnpq,2022-06-18T18:00:38.520Z,"255 km ESE of Attu Station, Alaska",earthquake,,2.3,,,reviewed,ak,ak
 2022-06-18T09:38:49.890Z,18.0036666666667,-66.826,14.79,2.43,md,6,162,,0.09,pr,pr71354808,2022-06-18T11:36:08.810Z,"1 km NW of Indios, Puerto Rico",earthquake,0.57,0.76,0.191333536657704,5,reviewed,pr,pr
-2022-06-18T09:27:02.591Z,38.1856,-117.8025,1.5,1.3,ml,14,188.41,0.132,0.1664,nn,nn00841138,2022-06-18T09:31:09.856Z,"35 km SE of Mina, Nevada",earthquake,,2.4,0.15,7,automatic,nn,nn
-2022-06-18T09:26:39.830Z,18.4946666666667,-66.1741666666667,80.66,3.01,md,13,214,,0.2,pr,pr71354803,2022-06-18T11:01:48.400Z,"5 km N of Levittown, Puerto Rico",earthquake,1.79,1.48,0.10331904131778,10,reviewed,pr,pr
