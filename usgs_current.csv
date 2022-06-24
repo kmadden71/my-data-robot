@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-24T11:16:19.300Z,38.7716675,-122.713501,1.42,0.86,md,10,103,0.01165,0.03,nc,nc73750366,2022-06-24T11:17:54.290Z,"2km W of Anderson Springs, CA",earthquake,0.3,0.47,0.02,4,automatic,nc,nc
+2022-06-24T11:29:58.070Z,61.7422,-151.6902,97.5,2.3,ml,,,,0.42,ak,ak02281lruav,2022-06-24T11:31:53.830Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-06-24T11:27:26.140Z,62.3022,-151.2902,80.4,2.5,ml,,,,0.5,ak,ak02281lrcej,2022-06-24T11:34:35.040Z,"34 km SW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-06-24T11:16:19.300Z,38.7716675,-122.713501,1.42,0.86,md,10,103,0.01165,0.03,nc,nc73750366,2022-06-24T11:34:14.088Z,"2km W of Anderson Springs, CA",earthquake,0.3,0.47,0.02,4,automatic,nc,nc
 2022-06-24T11:06:17.299Z,63.2537,-151.0137,9.5,0.9,ml,,,,0.6,ak,ak02281lmtpe,2022-06-24T11:09:02.612Z,"47 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-24T10:58:41.330Z,33.4796667,-116.3701667,10.39,0.77,ml,25,101,0.06368,0.23,ci,ci40290456,2022-06-24T11:02:08.036Z,"21km SSW of La Quinta, CA",earthquake,0.36,1.07,0.131,23,automatic,ci,ci
 2022-06-24T10:52:08.570Z,38.8421669,-122.8776703,2.53,0.84,md,18,91,0.005992,0.03,nc,nc73750361,2022-06-24T11:07:30.938Z,"13km NW of The Geysers, CA",earthquake,0.33,0.5,0.23,4,automatic,nc,nc
@@ -66,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-24T05:21:20.337Z,36.9811,-117.6057,4.5,2.2,ml,29,132.98,0.421,0.3059,nn,nn00841626,2022-06-24T05:24:58.250Z,"56 km ENE of Independence, California",earthquake,,1.1,0.8,21,automatic,nn,nn
 2022-06-24T05:18:35.970Z,38.7608337,-122.7344971,1.94,0.33,md,10,125,0.01127,0.02,nc,nc73750241,2022-06-24T05:36:14.835Z,"3km SE of The Geysers, CA",earthquake,0.36,0.62,0.05,3,automatic,nc,nc
 2022-06-24T05:02:50.720Z,38.8361664,-122.7998352,2.1,1.44,md,24,58,0.007743,0.04,nc,nc73750236,2022-06-24T07:22:11.508Z,"7km WNW of Cobb, CA",earthquake,0.21,0.37,0.12,7,automatic,nc,nc
-2022-06-24T04:51:01.127Z,-8.8379,-79.2107,71.08,5.1,mww,,156,3.901,0.89,us,us7000hjtz,2022-06-24T06:01:20.741Z,"near the coast of northern Peru",earthquake,8.7,4.3,0.098,10,reviewed,us,us
+2022-06-24T04:51:01.127Z,-8.8379,-79.2107,71.08,5.1,mww,,156,3.901,0.89,us,us7000hjtz,2022-06-24T11:31:10.156Z,"near the coast of northern Peru",earthquake,8.7,4.3,0.098,10,reviewed,us,us
 2022-06-24T04:38:51.950Z,19.2316665649414,-155.37516784668,31.8600006103516,1.88999999,md,30,152,,0.100000001,hv,hv73053812,2022-06-24T04:41:56.870Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.77,1.15999997,0.620000005,3,automatic,hv,hv
 2022-06-24T04:28:49.940Z,38.8325005,-122.8190002,1.7,1.39,md,26,56,0.01146,0.03,nc,nc73750211,2022-06-24T06:56:11.348Z,"8km NW of The Geysers, CA",earthquake,0.18,0.36,0.08,6,automatic,nc,nc
 2022-06-24T04:26:13.095Z,1.5074,-90.8486,10,4.7,mb,,165,10.64,0.87,us,us7000hjtv,2022-06-24T04:54:07.040Z,"255 km NNW of Puerto Ayora, Ecuador",earthquake,10.5,1.8,0.039,199,reviewed,us,us
@@ -246,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-23T11:47:04.569Z,60.0796,-150.3639,46.2,1.4,ml,,,,0.71,ak,ak0227zyc8l4,2022-06-23T11:49:17.640Z,"41 km NE of Fox River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-06-23T11:43:35.180Z,38.7943344,-122.7243347,2.42,0.94,md,13,102,0.01472,0.01,nc,nc73749941,2022-06-23T12:00:14.442Z,"3km S of Cobb, CA",earthquake,0.33,0.84,0.21,3,automatic,nc,nc
 2022-06-23T11:40:35.577Z,40.1009,-119.4657,11.2,0.6,ml,4,242.13,0.215,0.0155,nn,nn00841589,2022-06-23T22:51:24.873Z,"20 km NE of Sutcliffe, Nevada",earthquake,,14.1,0.22,4,reviewed,nn,nn
-2022-06-23T11:35:33.523Z,38.1524,-117.8826,9.6,0.8,ml,14,156.16,0.062,0.1269,nn,nn00841538,2022-06-23T17:35:31.926Z,"33 km SE of Mina, Nevada",earthquake,,1.4,0.65,4,reviewed,nn,nn
