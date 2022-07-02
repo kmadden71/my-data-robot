@@ -178,7 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-01T18:36:43.230Z,38.8339996,-122.8079987,2.83,0.85,md,12,87,0.01071,0.02,nc,nc73753296,2022-07-01T20:07:14.679Z,"8km W of Cobb, CA",earthquake,0.39,1.44,,1,automatic,nc,nc
 2022-07-01T18:29:53.402Z,27.1505,89.2837,10,4.2,mb,19,143,3.616,0.72,us,us6000hz6u,2022-07-02T11:52:58.938Z,"22 km NNW of Daphu, Bhutan",earthquake,9.9,2,0.152,12,reviewed,us,us
 2022-07-01T18:29:31.820Z,37.6216667,-119.0235,2.79,0.53,md,16,98,0.01263,0.04,nc,nc73753291,2022-07-02T10:20:15.568Z,"4km WSW of Mammoth Lakes, CA",earthquake,0.31,0.49,0.414,13,reviewed,nc,nc
-2022-07-01T18:17:47.850Z,47.409,-113.1161667,16.3,0.86,ml,12,109,0.306,0.17,mb,mb80550259,2022-07-02T14:31:02.830Z,"western Montana",earthquake,0.44,0.77,0.191,3,reviewed,mb,mb
+2022-07-01T18:17:47.850Z,47.409,-113.1161667,16.3,0.86,ml,12,109,0.306,0.17,mb,mb80550259,2022-07-02T14:31:02.830Z,"37 km NE of Seeley Lake, Montana",earthquake,0.44,0.77,0.191,3,reviewed,mb,mb
 2022-07-01T18:11:07.651Z,39.8105,-120.4425,0,1.2,ml,4,240.2,0.085,0.0757,nn,nn00842084,2022-07-02T02:40:20.309Z,"2 km E of Portola, California",earthquake,,0,0.26,4,reviewed,nn,nn
 2022-07-01T18:10:01.989Z,62.9085,-148.3558,0,1.6,ml,,,,1.07,ak,ak0228dal42u,2022-07-01T18:12:46.257Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-01T18:03:45.913Z,38.395,-118.9133,9.2,1,ml,18,169.9,0.132,0.1378,nn,nn00842083,2022-07-02T02:40:19.536Z,"29 km WSW of Hawthorne, Nevada",earthquake,,1.4,0.17,7,reviewed,nn,nn
@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-01T16:02:30.540Z,17.99,-66.899,14.35,1.64,md,6,134,,0.09,pr,pr71356953,2022-07-01T18:34:03.300Z,"1 km NW of Maria Antonia, Puerto Rico",earthquake,0.62,0.8,0.219912247109302,4,reviewed,pr,pr
 2022-07-01T16:01:02.700Z,38.8258324,-122.7636642,2.02,0.85,md,9,180,0.006729,0.01,nc,nc73753246,2022-07-01T17:02:11.439Z,"4km W of Cobb, CA",earthquake,0.63,0.81,,1,automatic,nc,nc
 2022-07-01T15:58:57.340Z,33.4913333,-116.7523333,7.07,0.41,ml,16,93,0.07131,0.16,ci,ci40294904,2022-07-01T16:02:33.273Z,"10km SW of Anza, CA",earthquake,0.28,0.91,0.104,11,automatic,ci,ci
-2022-07-01T15:55:06.420Z,39.428,-110.289,-2.63,1.46,ml,7,201,0.02823,0.14,uu,uu60504222,2022-07-01T16:28:03.220Z,"16 km SSE of Sunnyside, Utah",earthquake,1.71,3.29,0.111,4,reviewed,uu,uu
