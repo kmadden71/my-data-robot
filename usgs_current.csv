@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T02:03:44.645Z,-32.9491,-71.8866,33.41,4.4,mwr,24,104,0.214,0.78,us,us6000hzmw,2022-07-04T06:14:11.340Z,"25 km WNW of Valparaíso, Chile",earthquake,5,6,0.04,59,reviewed,us,us
 2022-07-04T01:54:52.780Z,38.7948341,-122.8176651,3.54,0.24,md,8,101,0.01313,0.01,nc,nc73754116,2022-07-04T03:34:16.217Z,"6km WNW of The Geysers, CA",earthquake,0.61,2.01,0.11,2,automatic,nc,nc
 2022-07-04T01:54:09.858Z,61.6037,-151.5963,73.9,1.4,ml,,,,0.75,ak,ak0228hzc8e1,2022-07-04T01:57:22.542Z,"44 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-04T01:52:28.450Z,18.0336666666667,-66.6503333333333,19.59,2.65,md,17,59,,0.11,pr,pr71357328,2022-07-04T03:27:02.470Z,"3 km NW of Ponce, Puerto Rico",earthquake,0.36,0.23,0.121384855017177,10,reviewed,pr,pr
+2022-07-04T01:52:28.450Z,18.0336666666667,-66.6503333333333,19.59,2.65,md,17,59,,0.11,pr,pr71357328,2022-07-04T03:27:02.470Z,"Puerto Rico region",earthquake,0.36,0.23,0.121384855017177,10,reviewed,pr,pr
 2022-07-04T01:48:54.940Z,38.7541667,-122.7141667,1.5,0.2,md,24,76,0.01118,0.06,nc,nc73754111,2022-07-04T05:57:16.011Z,"3km SW of Anderson Springs, CA",earthquake,0.21,0.17,0.139,4,reviewed,nc,nc
 2022-07-04T01:47:13.910Z,18.0308333333333,-66.657,17.45,2.88,md,23,62,,0.13,pr,pr71357318,2022-07-04T03:01:03.137Z,"4 km WNW of Ponce, Puerto Rico",earthquake,0.25,0.29,0.0733985749669293,15,reviewed,pr,pr
 2022-07-04T01:43:04.050Z,46.20066666666666,-122.19133333333333,0.39,1.2,md,8,94,0.0009466,0.04,uw,uw61849312,2022-07-04T03:37:49.540Z,"37 km NNE of Amboy, Washington",earthquake,0.31,0.29,,1,reviewed,uw,uw
