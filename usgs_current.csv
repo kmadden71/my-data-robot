@@ -173,5 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-18T14:43:45.070Z,38.8376656,-122.8000031,1.65,0.8,md,20,67,0.00758,0.01,nc,nc73760276,2022-07-18T16:37:10.436Z,"7km WNW of Cobb, CA",earthquake,0.2,0.38,0.26,3,automatic,nc,nc
 2022-07-18T14:38:21.383Z,36.595,70.9797,206.35,5,mb,83,59,0.62,0.67,us,us6000i3f4,2022-07-18T16:11:47.040Z,"32 km SSE of Jurm, Afghanistan",earthquake,7.4,4.6,0.039,204,reviewed,us,us
 2022-07-18T14:32:49.990Z,38.838665,-122.8014984,1.69,0.33,md,10,92,0.008715,0.01,nc,nc73760271,2022-07-18T15:04:12.838Z,"7km WNW of Cobb, CA",earthquake,0.31,0.79,0.35,2,automatic,nc,nc
-2022-07-18T14:28:18.660Z,39.4275,-110.294,-2.17,1.36,md,6,200,0.02433,0.12,uu,uu60506087,2022-07-18T15:42:24.840Z,"15 km SSE of Sunnyside, Utah",earthquake,0.9,1.08,0.138,6,reviewed,uu,uu
-2022-07-18T14:26:41.130Z,38.836834,-122.7991638,2.32,0.83,md,17,67,0.007065,0.02,nc,nc73760266,2022-07-18T16:10:10.275Z,"7km WNW of Cobb, CA",earthquake,0.25,0.61,0.29,3,automatic,nc,nc
