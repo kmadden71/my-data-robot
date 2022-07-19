@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-19T12:42:17.450Z,38.7944984,-122.8184967,3.59,1.17,md,8,145,0.01297,0.01,nc,nc73760546,2022-07-19T13:16:10.694Z,"6km WNW of The Geysers, CA",earthquake,0.72,2.63,,1,automatic,nc,nc
 2022-07-19T12:35:26.030Z,17.9548333333333,-67.0338333333333,5.18,1.85,md,11,224,,0.12,pr,pr71360303,2022-07-19T13:01:09.250Z,"2 km SSE of La Parguera, Puerto Rico",earthquake,0.43,0.29,0.164616776004968,5,reviewed,pr,pr
 2022-07-19T12:21:36.470Z,17.9713333333333,-66.9041666666667,13.92,2.19,md,12,190,,0.3,pr,pr71360288,2022-07-19T12:43:08.780Z,"0 km E of Guánica, Puerto Rico",earthquake,1.24,0.97,0.0351076283990683,5,reviewed,pr,pr
-2022-07-19T11:57:24.469Z,61.6486,-148.1469,20.2,1,ml,,,,0.69,ak,ak02296ydg4e,2022-07-19T12:00:02.492Z,"23 km SE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-07-19T11:57:24.469Z,61.6486,-148.1469,20.2,1,ml,,,,0.69,ak,ak02296ydg4e,2022-07-19T12:00:02.492Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-19T11:40:57.440Z,37.5128326,-118.8838348,5.06,1.46,md,20,158,0.08849,0.05,nc,nc73760541,2022-07-19T12:27:10.391Z,"16km SSE of Mammoth Lakes, CA",earthquake,0.79,1.61,0.1,18,automatic,nc,nc
 2022-07-19T11:27:25.910Z,38.7895012,-122.7693329,1.28,0.85,md,11,97,0.01341,0.02,nc,nc73760536,2022-07-19T12:01:10.228Z,"2km NW of The Geysers, CA",earthquake,0.28,0.66,,1,automatic,nc,nc
 2022-07-19T11:10:47.906Z,57.7881,-154.9846,56.8,1.7,ml,,,,0.28,ak,ak02296y3f9y,2022-07-19T11:12:09.470Z,"39 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -169,5 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-18T15:16:31.460Z,33.2416649,-116.2795029,10.05,1.45,ml,48,39,0.05332,0.19,ci,ci40065831,2022-07-18T15:27:34.060Z,"9km E of Borrego Springs, CA",earthquake,0.22,0.53,0.144,5,automatic,ci,ci
 2022-07-18T15:06:43.851Z,58.0197,-154.2884,207.7,1.7,ml,,,,0.84,ak,ak02295cwy0x,2022-07-18T15:09:40.554Z,"51 km N of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-07-18T15:03:32.802Z,40.4922,-127.0395,10,2.8,ml,20,269,2.312,0.96,us,us6000i3f9,2022-07-18T16:06:39.040Z,"235 km W of Ferndale, California",earthquake,9.9,2,0.056,42,reviewed,us,us
-2022-07-18T14:45:28.590Z,33.296,-115.9356667,1.9,0.78,ml,13,170,0.1272,0.21,ci,ci40065815,2022-07-18T14:49:05.151Z,"2km E of Salton City, CA",earthquake,1.41,1.22,0.067,6,automatic,ci,ci
-2022-07-18T14:45:20.774Z,61.5439,-150.0216,26.8,2.1,ml,,,,0.81,ak,ak02295cjtkd,2022-07-18T14:47:42.223Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
