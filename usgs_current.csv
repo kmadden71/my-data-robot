@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-20T07:19:29.260Z,38.8288345,-122.8151703,2.23,0.85,md,10,121,0.006734,0.01,nc,nc73760926,2022-07-20T07:30:11.300Z,"8km NW of The Geysers, CA",earthquake,0.4,0.73,,1,automatic,nc,nc
+2022-07-20T07:10:22.241Z,-2.0023,-78.4277,130.96,4.7,mb,59,92,0.646,1.23,us,us7000hs1v,2022-07-20T07:25:47.040Z,"Ecuador",earthquake,6.7,5,0.039,197,reviewed,us,us
 2022-07-20T06:31:56.788Z,38.1776,-117.9657,0.5,0.4,ml,8,151.65,0.026,0.0891,nn,nn00843265,2022-07-20T06:36:57.746Z,"26 km SSE of Mina, Nevada",earthquake,,0.1,0.42,4,automatic,nn,nn
 2022-07-20T06:12:12.136Z,38.7994,-116.1898,1.5,2,ml,12,111.75,1.508,0.2715,nn,nn00843262,2022-07-20T06:16:08.835Z,"81 km SSW of Eureka, Nevada",earthquake,,4.8,0.87,8,automatic,nn,nn
 2022-07-20T06:11:53.870Z,33.411,-116.3436667,10.48,1.21,ml,28,72,0.05626,0.21,ci,ci40066591,2022-07-20T06:15:29.690Z,"18km N of Borrego Springs, CA",earthquake,0.33,0.68,0.147,27,automatic,ci,ci
@@ -16,6 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-20T05:18:42.366Z,5.7958,126.8583,124.26,5,mb,70,106,1.793,0.73,us,us7000hs1f,2022-07-20T05:33:20.040Z,"97 km SE of Pondaguitan, Philippines",earthquake,7.6,6,0.072,61,reviewed,us,us
 2022-07-20T05:01:17.600Z,35.5055,-118.3901667,5.51,1.29,ml,16,101,0.1712,0.14,ci,ci40066575,2022-07-20T05:04:47.224Z,"13km SE of Bodfish, CA",earthquake,0.26,1.38,0.177,14,automatic,ci,ci
 2022-07-20T05:00:01.700Z,33.2743333,-115.9791667,1.93,1.13,ml,25,89,0.1006,0.22,ci,ci40066567,2022-07-20T05:03:46.059Z,"4km SW of Salton City, CA",earthquake,0.44,0.9,0.203,25,automatic,ci,ci
+2022-07-20T04:49:59.550Z,18.8803,-67.6951,3,3.63,md,27,182,0.5408,0.42,pr,pr2022201001,2022-07-20T07:19:01.192Z,"75 km NW of Aguadilla, Puerto Rico",earthquake,0.91,1.09,0.17,22,reviewed,pr,pr
 2022-07-20T04:46:34.484Z,38.6963,-116.274,3.8,2.1,ml,14,151.64,1.284,0.3739,nn,nn00843259,2022-07-20T04:50:18.888Z,"89 km SE of Kingston, Nevada",earthquake,,2.6,0.93,9,automatic,nn,nn
 2022-07-20T04:43:36.600Z,18.4356666666667,-66.3195,48.35,2.5,md,14,192,,0.26,pr,pr71360383,2022-07-20T05:03:09.960Z,"2 km SW of San Antonio, Puerto Rico",earthquake,1.01,1.04,0.0539989568692207,9,reviewed,pr,pr
 2022-07-20T04:41:22.964Z,38.2041,-117.8383,8.4,1.6,ml,19,133.52,0.115,0.1822,nn,nn00843255,2022-07-20T04:44:49.143Z,"31 km SE of Mina, Nevada",earthquake,,0.5,0.34,12,automatic,nn,nn
